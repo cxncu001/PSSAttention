@@ -8,6 +8,7 @@
 * GloVe.840B.300d
 
 ## Running
+Use main_total.py to get all experimental results.
 ```
 THEANO_FLAGS="device=gpu0" python main_total.py -ds_name [YOUR_DATASET_NAME] -log_name [YOUR_LOG_NAME]
 ```
