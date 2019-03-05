@@ -1,4 +1,4 @@
-# TNet-Att(+SA)
+# TNet-Att(+AS)
 
 ## Requirements
 * Python 3.6
